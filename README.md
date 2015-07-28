@@ -1,11 +1,32 @@
 # sample-basic-web-application
 sample project for gulp building with browserify and browserSync.
 
+## introdution
+### required
+node
+```
+ndenv install `ndenv local`
+```
+
+bower
+```
+npm install -g bower
+```
+
+### install
+```
+npm install && bower install
+```
+
 ## build
-`npm build`
+```
+npm run build
+```
 
 ## start server
-`npm start`
+```
+npm start
+```
 
 ## buildings
 
