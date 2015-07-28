@@ -1,5 +1,5 @@
 {
-  "name": "sample-offline-application",
+  "name": "sample-basic-web-application",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/t-mimura/sample-offline-application.git"
+    "url": "https://github.com/t-mimura/sample-basic-web-application"
   },
   "author": "MIMURA Tomohiro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/t-mimura/sample-offline-application/issues"
+    "url": "https://github.com/t-mimura/sample-basic-web-application/issues"
   },
-  "homepage": "https://github.com/t-mimura/sample-offline-application",
+  "homepage": "https://github.com/t-mimura/sample-basic-web-application",
   "devDependencies": {
     "browser-sync": "^2.8.0",
     "debowerify": "^1.3.1",
