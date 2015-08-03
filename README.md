@@ -5,27 +5,27 @@ sample project for gulp building with browserify and browserSync.
 ### required
 node
 ```
-ndenv install `ndenv local`
+$ ndenv install `ndenv local`
 ```
 
 bower
 ```
-npm install -g bower
+$ npm install -g bower
 ```
 
 ### install
 ```
-npm install && bower install
+$ npm install && bower install
 ```
 
 ## build
 ```
-npm run build
+$ npm run build
 ```
 
 ## start server
 ```
-npm start
+$ npm start
 ```
 
 ## buildings
